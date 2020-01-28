@@ -22,20 +22,20 @@ setting erea
 #red{
 	width: 100%;
 	height: 300px;
-	background: blue;
+	background: linear-gradient(red, yellow, blue, orange);
 }
 
 #blue{
 	width: 50%;
 	height: 300px;
-	background: pink;
+	background: linear-gradient(hotpink, yellow, lightblue, orange);
 	float: left;
 }
 
 #green{
 	width: 50%;
 	height: 300px;
-	background:hotpink ;
+	background: linear-gradient(lightgray, yellow, lightblue, hotpink);
 	float: right;
 }
 
