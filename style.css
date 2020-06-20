@@ -19,10 +19,10 @@ article, header, footer, aside, figure, figcaption, nav, section {
 setting erea
 
 =====================*/
-#red{
+#yellow{
 	width: 100%;
 	height: 300px;
-	background: pink;
+	background: yellow;
 }
 
 #blue{
@@ -38,4 +38,3 @@ setting erea
 	background:green ;
 	float: right;
 }
-
